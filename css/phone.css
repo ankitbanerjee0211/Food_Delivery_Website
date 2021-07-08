@@ -23,6 +23,9 @@
 #home p{
     font-size: 1rem;
 }
+#home #second-para{
+    display: none;
+}
 
 /* Services Section */
 #services{
